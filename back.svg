@@ -1,0 +1,14 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #9dc3c0;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 17.27px;
+      }
+    </style>
+  </defs>
+  <polyline id="Back_Arrow" data-name="Back Arrow" class="cls-1" points="135.74 33.83 64.03 100.41 135.74 167"/>
+</svg>
