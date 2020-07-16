@@ -156,3 +156,6 @@ body {
     background: #66a7aa;
     color: #fff;
 }
+input:focus{
+    border: none;
+}
